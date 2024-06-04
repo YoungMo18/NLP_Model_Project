@@ -1,2 +1,2 @@
-# NLP_Final_Project
+# NLP_Semantic_Model_Project
 Quora Question Semantic NLP Analysis
